@@ -1,0 +1,6 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 揚子法言
+#+DATE: 2015-09-23 10:09:37
+#+PROPERTY: JUAN 0
+
+<md:KR3a0009_WYG_000-4b>¶李軌注
